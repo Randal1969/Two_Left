@@ -3,3 +3,4 @@ These are files for Alien Invasion, which is one of the projects in the book. I 
 images/
 alien.png
 ship.png
+The images were taken from https://pixabay.com/
